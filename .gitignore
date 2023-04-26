@@ -1,0 +1,33 @@
+# yolov5 file
+yolov5n.pt
+yolov5s.pt
+yolov5m.pt
+yolov5l.pt
+yolov5x.pt
+
+# yolo weights, don't know what version it is
+yolo.weights
+
+# yolov2
+yolov2.cfg
+yolov2.weights
+
+# coco data
+coco.names
+
+# mongo db
+mongo-data/
+
+# jupyter lab
+.ipynb_checkpoints/
+
+# for google net
+caffe.zip
+bvlc_googlenet.*
+caffe/
+
+# ignore .csv file because of data file
+*.csv
+
+# ignore data dir
+data/
